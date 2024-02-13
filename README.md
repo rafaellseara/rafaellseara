@@ -11,13 +11,9 @@
 **1st year**
 - [**LI2**](https://github.com/rafaellseara/Projeto-LI2) - A little 2D game using ncurses, written in C
 
-<br>
-
 ## Contributing to
 
 - [**Hydrogen**](https://github.com/cesium/hydrogen) - Landing page for Centro de Estudantes de Engenharia Informática da Universidade do Minho ([CeSIUM](github.com/cesium))
-
-<br>
 
 ## Things I code with
 
