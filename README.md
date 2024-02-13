@@ -13,7 +13,7 @@
 
 ## Contributing to
 
-- [**Hydrogen**](https://github.com/cesium/hydrogen) - Landing page for Centro de Estudantes de Engenharia Informática da Universidade do Minho ([CeSIUM](cesium.di.uminho.pt))
+- [**Hydrogen**](https://github.com/cesium/hydrogen) - Landing page for Centro de Estudantes de Engenharia Informática da Universidade do Minho ([CeSIUM](https://cesium.di.uminho.pt/))
 
 ## Things I code with
 
