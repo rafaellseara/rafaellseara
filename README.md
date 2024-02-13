@@ -2,7 +2,12 @@
 
 <p>I'm Rafael, a Software Engineering Student at <b>University of Minho</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/128/5372/5372974.png" width="13"/> <b>Braga, Portugal</b>.</p>
 
-## 🙌🏼 Contributing to
+## 🎓 University Projects
+
+**1st year**
+- [**LI2**](https://github.com/rafaellseara/Projeto-LI2) - A little 2D game using ncurses, written in C
+
+## Contributing to
 
 - [**Hydrogen**](https://github.com/cesium/hydrogen) - Landing page for Centro de Estudantes de Engenharia Informática da Universidade do Minho ([CeSIUM](github.com/cesium))
 
