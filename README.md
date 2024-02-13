@@ -1,7 +1,7 @@
 # 👋🏻 Hi! Nice to see you.
 ---
 
-<p>I'm Rafael, a **Software Engineering Student** at **University of Minho**, currently living in ![image](https://github.com/rafaellseara/rafaellseara/assets/88705264/39a8ddde-727b-452b-87e3-4390e3d22cc7)**Braga, Portugal**.</p>
+<p>I'm Rafael, a **Software Engineering Student** at **University of Minho**, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/5372974.png" width="13"/>**Braga, Portugal**.</p>
 
 <!--
 **rafaellseara/rafaellseara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
