@@ -6,17 +6,18 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-seara-a18100267/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rafaellseara)
 
-
-
-
 ## 🎓 University Projects
 
 **1st year**
 - [**LI2**](https://github.com/rafaellseara/Projeto-LI2) - A little 2D game using ncurses, written in C
 
+<br>
+
 ## Contributing to
 
 - [**Hydrogen**](https://github.com/cesium/hydrogen) - Landing page for Centro de Estudantes de Engenharia Informática da Universidade do Minho ([CeSIUM](github.com/cesium))
+
+<br>
 
 ## Things I code with
 
