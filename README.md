@@ -2,6 +2,11 @@
 
 <p>I'm Rafael, a Software Engineering Student at <b>University of Minho</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/128/5372/5372974.png" width="13"/> <b>Braga, Portugal</b>.</p>
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaellseara@duck.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-seara-a18100267/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rafaellseara)
+
+
 ## 🎓 University Projects
 
 **1st year**
