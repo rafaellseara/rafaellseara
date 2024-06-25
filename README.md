@@ -11,6 +11,12 @@
 **1st year**
 - [**LI2**](https://github.com/rafaellseara/Projeto-LI2) - A little 2D game using ncurses, written in C
 
+**2st year**
+- [**LI3**](https://github.com/rafaellseara/Projeto-LI3) - A Data Manager, parsing data from a CSV file to perform queries
+- [**SO**](https://github.com/rafaellseara/SO) - Operating Systems project that implements a task orchestration service in a client-server model
+- [**BD**](https://github.com/rafaellseara/BD) - SQL project to create a database for a private investigation agency
+- [**POO**](https://github.com/rafaellseara/POO) -  Object-Oriented Programming project for managing activities and training plans for fitness enthusiasts
+
 ## Contributing to
 
 - [**Hydrogen**](https://github.com/cesium/hydrogen) - Landing page for Centro de Estudantes de Engenharia Informática da Universidade do Minho ([CeSIUM](https://cesium.di.uminho.pt/))
