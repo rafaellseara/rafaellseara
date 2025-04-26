@@ -17,10 +17,6 @@
 - [**BD**](https://github.com/rafaellseara/BD) - SQL project to create a database for a private investigation agency
 - [**POO**](https://github.com/rafaellseara/POO) -  Object-Oriented Programming project for managing activities and training plans for fitness enthusiasts
 
-## Contributing to
-
-- [**Hydrogen**](https://github.com/cesium/hydrogen) - Landing page for Centro de Estudantes de Engenharia Informática da Universidade do Minho ([CeSIUM](https://cesium.di.uminho.pt/))
-
 ## Things I code with
 
 ![NextJS](https://img.shields.io/badge/Next.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
