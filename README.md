@@ -21,7 +21,7 @@
 **3st year**
 
 - [**LI4**](https://github.com/rafaellseara/LI4) - A Blazor WebAssembly pizza assembly app built with C# and MVC, allowing users to simulate pizza creation step-by-step.
-- [**DSS**](https://github.com/rafaellseara/DSS) - This is a Java project that uses MySQL as the database
+- [**DSS**](https://github.com/rafaellseara/DSS) - A Java project that uses MySQL as the database
 - [**SD**](https://github.com/rafaellseara/SD-trabalho-pratico) - A multi-threaded Shared Key-Value Storage Service accessed remotely via TCP sockets, enabling efficient concurrent data management
 - [**CC**](https://github.com/rafaellseara/CC) - A Network Monitoring System, composed of a centralized server and multiple distributed agents
 -[**IA**](https://github.com/rafaellseara/IA) - A search algorithms that optimise food distribution in areas affected by a natural disaster
