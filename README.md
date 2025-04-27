@@ -24,7 +24,7 @@
 - [**DSS**](https://github.com/rafaellseara/DSS) - A Java project that uses MySQL as the database
 - [**SD**](https://github.com/rafaellseara/SD-trabalho-pratico) - A multi-threaded Shared Key-Value Storage Service accessed remotely via TCP sockets, enabling efficient concurrent data management
 - [**CC**](https://github.com/rafaellseara/CC) - A Network Monitoring System, composed of a centralized server and multiple distributed agents
--[**IA**](https://github.com/rafaellseara/IA) - A search algorithms that optimise food distribution in areas affected by a natural disaster
+- [**IA**](https://github.com/rafaellseara/IA) - A search algorithms that optimise food distribution in areas affected by a natural disaster
 
 ## Things I code with
 
