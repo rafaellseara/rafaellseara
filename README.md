@@ -28,7 +28,7 @@
 
 **4st year**
 
-- [**](https://github.com/rafaellseara/ASCN) - Deployment and orchestration of a web application on Google Kubernetes Engine (GKE), fully automated with Ansible, including monitoring with Elastic Stack and load testing with JMeter.
+- [**ASCN**](https://github.com/rafaellseara/ASCN) - Deployment and orchestration of a web application on Google Kubernetes Engine (GKE), fully automated with Ansible, including monitoring with Elastic Stack and load testing with JMeter.
 
 ## Things I code with
 
